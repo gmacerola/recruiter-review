@@ -1,3 +1,14 @@
 * {
   box-sizing: border-box;
 }
+
+.hidden {
+  display: none;
+}
+
+h1,
+#js-form,
+.error-message,
+#restart {
+  text-align: center;
+}
